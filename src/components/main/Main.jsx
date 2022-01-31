@@ -4,7 +4,11 @@ import "./Main.css";
 function Main() {
     return (
         <div className="Mcontainer">
-            <img src="./images/ramen-korean-noodles.jpg" alt="ramen" />
+            <section className="Msection">
+                <figure className="Mfigure">
+                <img className="mainImage" src="http://www.michiramen.com/media/hero-image-2.png" alt="ramen" />
+                </figure>
+            </section>
         </div>
     );
 }
