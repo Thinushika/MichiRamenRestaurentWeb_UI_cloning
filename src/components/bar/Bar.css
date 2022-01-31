@@ -1,5 +1,15 @@
 .barContainer{
     width: 100%;
     height: 40px;
+    padding: 2px 0;
     background-color: #d9333e;
+}
+.textB{
+    font-family: "Montserrat", sans-serif;
+    font-size: 19px !important;
+    text-align: center;
+    color: white !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 8px;
 }
