@@ -1,0 +1,18 @@
+.Fcontainer{
+    width: 100%;
+    height: 300px;
+    background-color: #433d3c;
+    display: flex;
+    flex-direction: row;
+}
+.iconColumn{
+    width: 40%;
+    justify-content: flex-end;
+    background-color: aqua;
+}
+.detailsColumn{
+    width: 60%;
+    justify-content: center;
+    background-color: rgb(12, 85, 85);
+}
+
