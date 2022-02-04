@@ -24,7 +24,13 @@ img{
 .Mlogo{
     
 }
+center{
+    text-align: -webkit-center;
+}
 .h2Topic{
     color: #433d3c;
     text-transform: uppercase;
+    margin-bottom: 0;
+    font-size: 1.25rem;
+    letter-spacing: 2px;
 }
