@@ -1,14 +1,19 @@
-.barContainer{
-    padding: 6px 0;
-    background-color: #d9333e;
+.barContainer {
+  padding: 6px 0;
+  background-color: #d9333e;
 }
-.textB{
-    font-family: "Montserrat", sans-serif;
-    font-size: 19px !important;
-    text-align: center;
-    margin: auto;
-    color: white !important;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    position: relative;
+.textB {
+  font-family: "Montserrat", sans-serif;
+  font-size: 19px !important;
+  text-align: center;
+  margin: auto;
+  color: white !important;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  position: relative;
 }
+/* @media (min-width: 20.625em) {
+  .barContainer p {
+    font-size: 14px !important;
+  }
+} */

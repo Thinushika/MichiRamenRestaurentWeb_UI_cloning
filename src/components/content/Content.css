@@ -1,6 +1,30 @@
 .Ccontainer{
-    height: auto;
+    padding-top: 0px;
+    position: relative;
+    z-index: 3;
+    overflow: hidden;
 }
 .Mrow{
-    height: 300px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.flexBox{
+    position: relative;
+    clear: both;
+    padding: 7px 14px;
+    display: block;
+    max-width: 64rem;
+    margin: 0 auto;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: bottom;
+}
+.Mlogo{
+    
+}
+.h2Topic{
+    color: #433d3c;
+    text-transform: uppercase;
 }
