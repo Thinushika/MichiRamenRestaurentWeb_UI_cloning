@@ -6,13 +6,22 @@
     flex-direction: row;
 }
 .iconColumn{
-    width: 40%;
+    width: 30%;
     justify-content: flex-end;
-    background-color: aqua;
 }
 .detailsColumn{
-    width: 60%;
+    width: 40%;
     justify-content: center;
-    background-color: rgb(12, 85, 85);
+}
+.emptyColumn{
+    width: 30%;
 }
 
+.details{
+    font-family:  "Montserrat", sans-serif;
+    color: rgb(228, 228, 228);
+}
+.iconBox{
+    width: 50px;
+    height: 50px;
+}

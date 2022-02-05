@@ -1,16 +1,29 @@
-import React from 'react';
-import './Footer.css';
+import React, { useEffect } from "react";
+import "./Footer.css";
+import data from "./data.json";
 
 function Footer() {
   return (
-  <div className='Fcontainer'>
-      <div className='iconColumn'>
-          icons
+    <div className="Fcontainer">
+      <div className="iconColumn">
+        <div className="iconBox"></div>
       </div>
-      <div className='detailsColumn'>
-          texts
+
+      <div className="detailsColumn" id="myData">
+        {data.map((post) => {
+          return (
+            <>
+              <p className="details">
+                {post.location} . Take-out & Delivery <br />
+                {post.contactNo} . {post.address}
+              </p>
+            </>
+          );
+        })}
       </div>
-  </div>
+
+      <div className="emptyColumn"></div>
+    </div>
   );
 }
 
