@@ -1,34 +1,22 @@
 [
     {
         "title": "Asia Market",
-        "address": [
-            {
-                "line1": "8650 Spicewood Springs Rd. #115",
-                "line2": "Austin, TX 78750",
-                "line3": "Barrington Oaks Center"
-            }
-        ],
+        "addressline1": "8650 Spicewood Springs Rd. #115",
+        "addressline2": "Austin, TX 78750",
+        "addressline3": "Barrington Oaks Center",
         "phoneNo": "(512) 386-1908"
     },
     {
         "title": "South Lamar",
-        "address": [
-            {
-                "line1": "3005 South Lamar Blvd. D-114B",
-                "line2": "Austin, TX 78704",
-                "line3": "Corners Shopping Center"
-            }
-        ],
+        "addressline1": "3005 South Lamar Blvd. D-114B",
+        "addressline2": "Austin, TX 78704",
+        "addressline3": "Corners Shopping Center",
         "phoneNo": "(512) 394-6350"
     },
     {
         "title": "North Lamar",
-        "address": [
-            {
-                "line1": "6519 North Lamar Blvd.",
-                "line2": "Austin, TX 78752"
-            }
-        ],
+        "addressline1": "6519 North Lamar Blvd.",
+        "addressline2": "Austin, TX 78752",
         "phoneNo": "(512) 935-8143"
     }
 ]
