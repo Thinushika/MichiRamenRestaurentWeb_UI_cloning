@@ -12,6 +12,7 @@
 .detailsColumn{
     width: 40%;
     justify-content: center;
+    padding-top: 30px;
 }
 .emptyColumn{
     width: 30%;
@@ -20,6 +21,8 @@
 .details{
     font-family:  "Montserrat", sans-serif;
     color: rgb(228, 228, 228);
+    margin-bottom: 10px;
+    line-height: 1.7;
 }
 .iconBox{
     width: 50px;

@@ -9,7 +9,7 @@ function Footer() {
         <div className="iconBox"></div>
       </div>
 
-      <div className="detailsColumn" id="myData">
+      <div className="detailsColumn">
         {data.map((post) => {
           return (
             <>
