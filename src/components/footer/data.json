@@ -1,18 +1,15 @@
 [
     {
-        "id": 1,
         "location": "North Lamar",
         "contactNo": "(512) 386-1908",
         "address": "6519 North Lamar 78752"
     },
     {
-        "id": 2,
         "location": "South Lamar",
         "contactNo": "(512) 394-6350",
         "address": "3005 South Lamar D-114B 78704"
     },
     {
-        "id": 3,
         "location": "Asia Market",
         "contactNo": "(512) 935-8143",
         "address": "8650 Spicewood Springs #115 78759"
