@@ -6,7 +6,18 @@ function Footer() {
   return (
     <div className="Fcontainer">
       <div className="iconColumn">
-        <div className="iconBox"></div>
+        <div className="iconBox">
+          <img src="./images/yelp.png" alt="yelp" />
+        </div>
+        <div className="iconBox">
+          <img src="./images/twitter.png" alt="yelp" />
+        </div>
+        <div className="iconBox">
+          <img src="./images/facebook.png" alt="yelp" />
+        </div>
+        <div className="iconBox">
+          <img src="./images/instagram.png" alt="yelp" />
+        </div>
       </div>
 
       <div className="detailsColumn">
@@ -20,6 +31,7 @@ function Footer() {
             </>
           );
         })}
+        <p className="detailsTerms">Terms of Use</p>
       </div>
 
       <div className="emptyColumn"></div>

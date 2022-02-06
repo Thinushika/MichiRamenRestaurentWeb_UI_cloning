@@ -5,8 +5,9 @@
 }
 .boxA{
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 55% 45%;
     padding: 0 15%;
+    margin-bottom: 60px;
 }
 .BoxC{
     display: block;
@@ -23,6 +24,7 @@ h2, p{
     font-size: 1.5rem;
     font-weight: 700;
     text-align: left;
+    margin-bottom: 0;
 }
 .pDesign{
     font-size: 0.875rem;
@@ -37,7 +39,7 @@ h2, p{
     color: white;
     border: none;
     background-color: #f6ad49;
-    padding: 12px 20px;
+    padding: 12px 25px;
     border-radius: 3px;
     text-align: center;
     line-height: 1;
@@ -55,7 +57,6 @@ h2, p{
 .logoContainer{
     width: 100%;
     padding-top: 60px;
-    padding-bottom: 60px;
 }
 .logo{
     text-align: center;
@@ -63,14 +64,16 @@ h2, p{
 .Mh2tag{
     font-family:  "Montserrat", sans-serif;
     text-transform: uppercase;
+    margin-top: 25px;
+    margin-bottom: 3px;
     font-size: 1.5rem;
     color: #433d3c;
     letter-spacing: 2px;
 }
 .Mptag{
     font-family:  "Montserrat", sans-serif;
-    text-transform: uppercase;
     line-height: 1;
+    margin-top: 0;
     margin-bottom: 1.75rem;
     font-weight: 400;
     color: gray;
