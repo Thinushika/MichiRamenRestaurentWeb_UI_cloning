@@ -12,8 +12,10 @@
   letter-spacing: 1px;
   position: relative;
 }
-/* @media (min-width: 20.625em) {
+
+
+@media only screen and (max-width: 768px) {
   .barContainer p {
     font-size: 14px !important;
   }
-} */
+}

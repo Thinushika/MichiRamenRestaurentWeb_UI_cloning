@@ -35,8 +35,6 @@ function Footer() {
         })}
         <p className="detailsTerms">Terms of Use</p>
       </div>
-
-      <div className="emptyColumn"></div>
     </div>
   );
 }
