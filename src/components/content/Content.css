@@ -63,6 +63,7 @@ p {
 .Mh2tag {
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
+  text-align: center;
   margin-top: 25px;
   margin-bottom: 3px;
   font-size: 1.5rem;
@@ -75,6 +76,7 @@ p {
   margin-top: 0;
   margin-bottom: 1.75rem;
   font-weight: 400;
+  text-align: center;
   color: gray;
   font-size: 0.875rem;
 }
@@ -94,10 +96,10 @@ p {
         text-align: center;
       }
       .text-wrap{
-          margin: auto;
+          margin: 5px;
       }
       .Mh2tag{
-        font-size: 1.3rem !important;
+        font-size: 1.2rem !important;
       }
       .Mptag{
         font-size: 0.775rem !important;
