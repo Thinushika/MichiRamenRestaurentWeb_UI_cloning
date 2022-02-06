@@ -83,7 +83,15 @@ p {
     .boxA {
         display: flex;
         flex-direction: column;
-        padding: 0 15%;
+        padding: 0 10%;
         margin-bottom: 60px;
+      }
+      /* .logoContainer {
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+      } */
+      .addressContainer {
+        padding-left: 20px;
       }
 }
