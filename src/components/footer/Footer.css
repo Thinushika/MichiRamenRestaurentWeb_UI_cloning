@@ -88,22 +88,14 @@
     .Fcontainer{
         width: 100%;
         height: auto;
-        background-color: #433d3c;
         display: flex;
         flex-direction: column;
     }
     .details{
-        font-family:  "Montserrat", sans-serif;
-        color: rgb(228, 228, 228);
-        margin-bottom: 10px;
-        line-height: 1.7;
+        font-size: 14px !important;
     }
     .detailsTerms{
-        font-family:  "Montserrat", sans-serif;
-        color: rgb(228, 228, 228);
-        margin-bottom: 10px;
-        line-height: 1.7;
-        margin: 40px 0px;
+        font-size: 14px !important;
     }
     .detailsColumn{
         width: 100%;
