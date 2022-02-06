@@ -26,16 +26,56 @@
     margin-bottom: 10px;
     line-height: 1.7;
 }
-.iconBox{
-    width: 30px;
-    height: 30px;
-    margin-top: 70px !important;
-    margin: 10px;
-}
 .detailsTerms{
     font-family:  "Montserrat", sans-serif;
     color: rgb(228, 228, 228);
     margin-bottom: 10px;
     line-height: 1.7;
     margin: 40px 0px;
+}
+.yelp{
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 40px;
+}
+.twitter{
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 40px;
+}
+.facebook{
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 40px;
+}
+.instagram{
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-top: 40px;
+}
+.iconColumn ul li a{
+    -webkit-transform: translateZ(0);
+    background-image: url(https://michiramen.com/img/social-sprite.png);
+    background-size: 192px 31px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    width: 28px;
+    height: 31px;
+    display: block;
+    margin: 5px 12px 25px;
+}
+.iconColumn ul li.twitter a{
+    background-position: -61px top;
+    width: 25px;
+}
+.iconColumn ul li.facebook a{
+    background-position: -119px top;
+    width: 13px;
+}
+.iconColumn ul li.instagram a{
+    background-position: -165px top;
 }

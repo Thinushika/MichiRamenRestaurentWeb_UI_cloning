@@ -6,18 +6,20 @@ function Footer() {
   return (
     <div className="Fcontainer">
       <div className="iconColumn">
-        <div className="iconBox">
-          <img src="./images/yelp.png" alt="yelp" />
-        </div>
-        <div className="iconBox">
-          <img src="./images/twitter.png" alt="yelp" />
-        </div>
-        <div className="iconBox">
-          <img src="./images/facebook.png" alt="yelp" />
-        </div>
-        <div className="iconBox">
-          <img src="./images/instagram.png" alt="yelp" />
-        </div>
+        <ul>
+          <li className="yelp">
+            <a href="#" className="ir"></a>
+            </li>
+            <li className="twitter">
+            <a href="#" className="ir"></a>
+            </li>
+            <li className="facebook">
+            <a href="#" className="ir"></a>
+            </li>
+            <li className="instagram">
+            <a href="#" className="ir"></a>
+            </li>
+        </ul>
       </div>
 
       <div className="detailsColumn">
