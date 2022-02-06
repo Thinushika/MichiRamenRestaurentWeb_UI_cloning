@@ -86,12 +86,9 @@ p {
         padding: 0 10%;
         margin-bottom: 60px;
       }
-      /* .logoContainer {
+      .logoContainer {
         width: 100%;
         padding-left: 20px;
         padding-right: 20px;
-      } */
-      .addressContainer {
-        padding-left: 20px;
       }
 }
