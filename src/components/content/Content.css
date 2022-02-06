@@ -96,4 +96,10 @@ p {
       .text-wrap{
           margin: auto;
       }
+      .Mh2tag{
+        font-size: 1.3rem !important;
+      }
+      .Mptag{
+        font-size: 0.775rem !important;
+      }
 }
