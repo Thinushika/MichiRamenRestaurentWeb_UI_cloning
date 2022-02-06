@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MichiRamenRestaurentWeb_UI_cloning/static/css/main.23fe8a2a.css",
+    "main.css": "/MichiRamenRestaurentWeb_UI_cloning/static/css/main.0cf4740a.css",
     "main.js": "/MichiRamenRestaurentWeb_UI_cloning/static/js/main.6d593f61.js",
     "static/js/787.fa489102.chunk.js": "/MichiRamenRestaurentWeb_UI_cloning/static/js/787.fa489102.chunk.js",
     "index.html": "/MichiRamenRestaurentWeb_UI_cloning/index.html",
-    "main.23fe8a2a.css.map": "/MichiRamenRestaurentWeb_UI_cloning/static/css/main.23fe8a2a.css.map",
+    "main.0cf4740a.css.map": "/MichiRamenRestaurentWeb_UI_cloning/static/css/main.0cf4740a.css.map",
     "main.6d593f61.js.map": "/MichiRamenRestaurentWeb_UI_cloning/static/js/main.6d593f61.js.map",
     "787.fa489102.chunk.js.map": "/MichiRamenRestaurentWeb_UI_cloning/static/js/787.fa489102.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23fe8a2a.css",
+    "static/css/main.0cf4740a.css",
     "static/js/main.6d593f61.js"
   ]
 }
